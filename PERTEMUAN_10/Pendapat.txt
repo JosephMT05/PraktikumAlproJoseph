@@ -1,0 +1,18 @@
+Nama: Joseph Marco Tanuwidjaja 
+NIM: 24060125140145 
+Lab: E2 
+
+Pertanyaan:
+Menurut Anda, apa kekurangan masing-masing algoritma?
+
+Jawaban:
+Menurut saya, kekurangan dari:
+1. Counting sort: jika variansi datanya terlalu besar, 
+   maka array yang dihasilkan sangat boros dan tidak semuanya terpakai.
+2. Selection sort: kurang efisien jika datanya sudah hampir terurut
+   karena selection sort selalu melakukan scan dari awal hingga akhir.
+3. Insertion sort: pergeseran elemen akan terlalu banyak jika data 
+   diinput adalah data yang terurut dari besar ke kecil.
+4. Bubble sort: sangat lambat jika diaplikasikan di data yang skalanya
+   besar, karena setiap pass Bubble sort akan membandingkan dua elemen 
+   berdampingan secara berulang dan menukarnya jika urutannya salah 
