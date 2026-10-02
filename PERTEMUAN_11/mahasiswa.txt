@@ -1,0 +1,8 @@
+145, Joseph, 94
+91, Albart, 75
+233, Ipal, 74
+13, Bintang, 70
+255, Ferja, 86
+204, Kevin, 72
+45, Rafa, 80
+99999, MARK, 0
